@@ -14,6 +14,7 @@
 //a stateful component.
 
 // 4. Why would a startup be interested in applying React-Router to a project? Explain in detail.
+//Answer: Companies with lowbudget can create dynamically changing single pages to display alot of content that needs constant updated information
 
 // console.log('Question 5: Can browsers read JSX? Why?');
 // console.log(
